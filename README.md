@@ -46,14 +46,6 @@ I'm interested in develoment and cyber-security
   
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
-
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
     <a href="https://kiosk-practicing.netlify.app">키오스크 헬퍼</a>
     <br/>
     <a href="https://play.google.com/store/apps/details?id=com.kw.pinky">약속관리 앱 :pinky</a>
